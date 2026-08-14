@@ -1,0 +1,16 @@
+{
+  "name": "d00m4-666ax",
+  "version": "0.1.0",
+  "description": "D00M4-666AX — clean-room first-person-shooter core (deterministic).",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "vitest": "^2.0.0"
+  },
+  "license": "MIT"
+}
